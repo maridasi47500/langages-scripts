@@ -67,7 +67,7 @@ class Mycommandline(Model):
             myprogram="php"
         if matermin == "py":
             myprogram="python3"
-        monfichier=Fichier("./monscript","lancer_"+params["name"]+".sh").ecrire("""xterm -l -hold -e "cd {myroot}/monscript && echo 'c\'est mon script' && bash -l -c '{program} ./{name}'"
+        monfichier=Fichier("./monscript","lancer_"+params["name"]+".sh").ecrire("""xterm -l -hold -e "cd {myroot}/monscript && echo \\\"c'est mon script\\\" && bash -l -c \\\"{program} ./{name}\\\""
                 """.format(myroot=os.getcwd(), name=params['name'],program=myprogram))
         return azerty
 
