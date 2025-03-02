@@ -1,4 +1,3 @@
-# bienvenue dans hacker ethique
-- bien sur j veux me rappeler de se que je sais faire comme programmes :snake: :gem:
-- ecrire dans un fichier :file_folder: et dans une base de donneess 	meme si j'ai pas peur de tout oublier du jour au lendemain :skull:	
-
+# bienvenue dans programmes s'execute dans langages informatiques (script langages informatiques)
+- ce que je sais faire comme programmes s'ouvre dans 1 fenetre tout de suite :snake: :gem:
+- rentre tes programm ici, je rentre mon script ici et je vois le resultat :skull:
